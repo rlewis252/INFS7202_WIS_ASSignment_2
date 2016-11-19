@@ -1,0 +1,43 @@
+/* 
+    Created on : 15/05/2016, 12:10:04 PM
+    Author     : Rhys L
+*/
+
+.navbar {
+    border-radius: 0;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    background-image: url("../images/main-background-image.jpg");
+    background-size: cover;
+}
+.search-text-box{
+    width: 270px;
+    padding: 15px 25px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #9D9E9E;
+    text-shadow: 1px 1px 0 rgba(256, 256, 256, 1.0);
+    background: #FFF;
+    border: 1px solid #FFF;
+    border-radius: 5px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.50);
+}
+#item-details-list{
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    float: left;
+}
+
+#item-details-list li{
+    margin-bottom: 15px;
+}
+footer {
+    background-color: #332C2F;
+    padding: 25px;
+    color: white;
+    
+}
